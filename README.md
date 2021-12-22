@@ -9,5 +9,5 @@
 - [Обзор имеющихся библиотек](https://open-budget.ru/public/699642/)  
 
 ### Шпора  
-- поставить нужеую библиотеку:  <code>opm install -lib_name </code>    
+- поставить нужную библиотеку:  <code>opm install -lib_name </code>    
 - запуск: <code>oscript run </code>      
